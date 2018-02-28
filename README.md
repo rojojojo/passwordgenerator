@@ -5,7 +5,7 @@ Dependencies:
 pyperclip  
 
 Install this library using the following command:  
-pip install pyperclip  
+pip install -r requirements.txt   
 
 Usage:  
 usage: pswgenerator.py [-h] [-l [LENGTH]]  
