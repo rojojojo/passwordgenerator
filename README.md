@@ -17,6 +17,6 @@ Example:
 
 python pswgenerator.py -l 10  
 -------Random Password Generator-------  
-The password is: <_8ZbW7Ez&  
+The password is:   
 Password copied to clipboard  
 
