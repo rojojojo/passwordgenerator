@@ -1,5 +1,5 @@
 #! python3
-# Author: Rohan
+# Author: rojojojo (Rohan)
 # pswgenerator.py - Python script to generate a complex password
 
 import random
